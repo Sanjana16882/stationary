@@ -3,7 +3,3 @@ eraser
 sharpner
 scale
 book
-
-compass
-pouch
-bag

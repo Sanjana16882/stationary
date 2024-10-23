@@ -1,0 +1,5 @@
+pencil
+eraser
+sharpner
+scale
+book
